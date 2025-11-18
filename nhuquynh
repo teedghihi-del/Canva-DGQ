@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Ví dụ HTML</title>
+</head>
+<body>
+
+    <h1>Giới thiệu cơ bản</h1>
+
+    <p>Đây là đoạn văn dùng thẻ &lt;p&gt;.</p>
+
+    <a href="https://google.com">Link tới Google</a>
+
+    <h2>Danh sách sở thích</h2>
+    <ul>
+        <li>Nghe nhạc</li>
+        <li>Học code</li>
+        <li>Chơi game</li>
+    </ul>
+
+    <h2>Ảnh minh họa</h2>
+    <img src="https://via.placeholder.com/200" alt="Ảnh mẫu">
+
+</body>
+</html>
